@@ -1,3 +1,6 @@
+;; SPDX-FileCopyrightText: 2019 Lassi Kortela
+;; SPDX-License-Identifier: ISC
+
 (defpackage #:core.text.read
   (:use #:cl)
   (:export #:core-text-read))
