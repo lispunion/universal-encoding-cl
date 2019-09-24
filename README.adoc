@@ -1,0 +1,4 @@
+# Universal encoding
+
+Encodings still in flux. This Common Lisp port tracks development of
+https://github.com/schemepersist/universal-encoding[schemepersist/universal-encoding].
